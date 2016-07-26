@@ -1,0 +1,1 @@
+docker run --rm --name wildfly -p 8080:8080 frekele/wildfly
