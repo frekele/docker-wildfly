@@ -10,13 +10,14 @@ ENV JBOSS_HOME=/opt/wildfly
 WORKDIR /tmp
 
 # Download and extract wildfly to opt folder
-RUN wget --no-check-certificate --no-cookies https://repo1.maven.org/maven2/org/wildfly/wildfly-dist/${WILDFLY_VERSION}/wildfly-dist-${WILDFLY_VERSION}.tar.gz \
-    && wget --no-check-certificate --no-cookies https://repo1.maven.org/maven2/org/wildfly/wildfly-dist/${WILDFLY_VERSION}/wildfly-dist-${WILDFLY_VERSION}.tar.gz.md5 \
-    && echo "$(cat wildfly-dist-${WILDFLY_VERSION}.tar.gz.md5) wildfly-dist-${WILDFLY_VERSION}.tar.gz" | md5sum -c \
-    && tar -zvxf wildfly-dist-${WILDFLY_VERSION}.tar.gz -C /opt/ \
+RUN wget --no-check-certificate --no-cookies https://repo1.maven.org/maven2/org/wildfly/wildfly-dist/${WILDFLY_VERSION}/wildfly-dist-${WILDFLY_VERSION}.zip \
+    && wget --no-check-certificate --no-cookies https://repo1.maven.org/maven2/org/wildfly/wildfly-dist/${WILDFLY_VERSION}/wildfly-dist-${WILDFLY_VERSION}.zip.md5 \
+    && echo "$(cat wildfly-dist-${WILDFLY_VERSION}.zip.md5) wildfly-dist-${WILDFLY_VERSION}.zip" | md5sum -c \
+    && unzip wildfly-dist-${WILDFLY_VERSION}.zip -d /opt \
     && mv /opt/wildfly-${WILDFLY_VERSION} /opt/wildfly \
-    && rm -f wildfly-dist-${WILDFLY_VERSION}.tar.gz \
-    && rm -f wildfly-dist-${WILDFLY_VERSION}.tar.gz.md5
+    && ln -s /opt/wildfly /opt/wildfly-${WILDFLY_VERSION} \
+    && rm -f wildfly-dist-${WILDFLY_VERSION}.zip \
+    && rm -f wildfly-dist-${WILDFLY_VERSION}.zip.md5
 
 # Add the files
 ADD rootfs /
