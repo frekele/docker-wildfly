@@ -1,4 +1,4 @@
-# Nexus Repository OSS (s6-overlay) Docker Image
+# WildFly JBoss (s6-overlay) Docker Image
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/frekele/wildfly.svg)](https://hub.docker.com/r/frekele/wildfly/)
 [![Docker Stars](https://img.shields.io/docker/stars/frekele/wildfly.svg)](https://hub.docker.com/r/frekele/wildfly/)
