@@ -2,7 +2,6 @@ FROM frekele/java:jdk8
 
 MAINTAINER frekele <leandro.freitas@softdevelop.com.br>
 
-# Set the WILDFLY_VERSION env variable
 ENV WILDFLY_VERSION=10.0.0.Final
 ENV JBOSS_HOME=/opt/wildfly
 
