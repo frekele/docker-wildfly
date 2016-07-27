@@ -35,7 +35,7 @@
 #### WildFly 9.0.2.Final with Oracle JDK Branches:
 | Branch                          | From                     | Usage        | Tag Names                                   |
 | ------------------------------- | ------------------------ | ------------ | --------------------------------------------|
-| [9.0.2.Final-jdk8] - latest     | frekele/java:jdk8        | Production   | 9.0.2.Final-jdk8, 9.0.2-jdk8                |
+| [9.0.2.Final-jdk8]              | frekele/java:jdk8        | Production   | 9.0.2.Final-jdk8, 9.0.2-jdk8                |
 | [9.0.2.Final-jdk8u102]          | frekele/java:jdk8u102    | Production   | 9.0.2.Final-jdk8u102, 9.0.2-jdk8u102        |
 | [9.0.2.Final-jdk8u101]          | frekele/java:jdk8u101    | Production   | 9.0.2.Final-jdk8u101, 9.0.2-jdk8u101        |
 | [9.0.2.Final-jdk7]              | frekele/java:jdk7        | Production   | 9.0.2.Final-jdk7, 9.0.2.Final-jdk7          |
@@ -45,7 +45,7 @@
 #### WildFly 9.0.1.Final with Oracle JDK Branches:
 | Branch                          | From                     | Usage        | Tag Names                                   |
 | ------------------------------- | ------------------------ | ------------ | --------------------------------------------|
-| [9.0.1.Final-jdk8] - latest     | frekele/java:jdk8        | Production   | 9.0.1.Final-jdk8, 9.0.1-jdk8                |
+| [9.0.1.Final-jdk8]              | frekele/java:jdk8        | Production   | 9.0.1.Final-jdk8, 9.0.1-jdk8                |
 | [9.0.1.Final-jdk8u102]          | frekele/java:jdk8u102    | Production   | 9.0.1.Final-jdk8u102, 9.0.1-jdk8u102        |
 | [9.0.1.Final-jdk8u101]          | frekele/java:jdk8u101    | Production   | 9.0.1.Final-jdk8u101, 9.0.1-jdk8u101        |
 | [9.0.1.Final-jdk7]              | frekele/java:jdk7        | Production   | 9.0.1.Final-jdk7, 9.0.1.Final-jdk7          |
@@ -55,7 +55,7 @@
 #### WildFly 9.0.0.Final with Oracle JDK Branches:
 | Branch                          | From                     | Usage        | Tag Names                                   |
 | ------------------------------- | ------------------------ | ------------ | --------------------------------------------|
-| [9.0.0.Final-jdk8] - latest     | frekele/java:jdk8        | Production   | 9.0.0.Final-jdk8, 9.0.0-jdk8                |
+| [9.0.0.Final-jdk8]              | frekele/java:jdk8        | Production   | 9.0.0.Final-jdk8, 9.0.0-jdk8                |
 | [9.0.0.Final-jdk8u102]          | frekele/java:jdk8u102    | Production   | 9.0.0.Final-jdk8u102, 9.0.0-jdk8u102        |
 | [9.0.0.Final-jdk8u101]          | frekele/java:jdk8u101    | Production   | 9.0.0.Final-jdk8u101, 9.0.0-jdk8u101        |
 | [9.0.0.Final-jdk7]              | frekele/java:jdk7        | Production   | 9.0.0.Final-jdk7, 9.0.0.Final-jdk7          |
