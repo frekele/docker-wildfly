@@ -34,7 +34,7 @@
 
 #### WildFly 9.0.2.Final with Oracle JDK Branches:
 | Branch                          | From                     | Usage        | Tag Names                         |
-| ------------------------------- | ------------------------ | ------------ | -------------------------------- -|
+| ------------------------------- | ------------------------ | ------------ | --------------------------------- |
 | [9.0.2.Final-jdk8]              | frekele/java:jdk8        | Production   | 9.0.2.Final-jdk8                  |
 | [9.0.2.Final-jdk8u102]          | frekele/java:jdk8u102    | Production   | 9.0.2.Final-jdk8u102              |
 | [9.0.2.Final-jdk8u101]          | frekele/java:jdk8u101    | Production   | 9.0.2.Final-jdk8u101              |
