@@ -12,6 +12,16 @@
 | [Website]  | [GitHub]  | [DockerHub]  |
 
 
+#### WildFly 10.1.0.CR1 with Oracle JDK Branches:
+| Branch                          | From                     | Usage         | Tag Names                        |
+| ------------------------------- | ------------------------ | ------------- | ---------------------------------|
+| [10.1.0.CR1-jdk8]               | frekele/java:jdk8        | Development   | 10.1.0.CR1-jdk8                  |
+| [10.1.0.CR1-jdk8u102]           | frekele/java:jdk8u102    | Development   | 10.1.0.CR1-jdk8u102              |
+| [10.1.0.CR1-jdk8u101]           | frekele/java:jdk8u101    | Development   | 10.1.0.CR1-jdk8u101              |
+| [10.1.0.CR1-jdk8u92]            | frekele/java:jdk8u92     | Development   | 10.1.0.CR1-jdk8u92               |
+| [10.1.0.CR1-jdk8u91]            | frekele/java:jdk8u91     | Development   | 10.1.0.CR1-jdk8u91               |
+
+
 #### WildFly 10.0.0.Final with Oracle JDK Branches:
 | Branch                          | From                     | Usage        | Tag Names                         |
 | ------------------------------- | ------------------------ | ------------ | ----------------------------------|
