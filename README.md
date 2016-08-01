@@ -18,8 +18,6 @@
 | [10.1.0.CR1-jdk8]               | frekele/java:jdk8        | Development   | 10.1.0.CR1-jdk8                  |
 | [10.1.0.CR1-jdk8u102]           | frekele/java:jdk8u102    | Development   | 10.1.0.CR1-jdk8u102              |
 | [10.1.0.CR1-jdk8u101]           | frekele/java:jdk8u101    | Development   | 10.1.0.CR1-jdk8u101              |
-| [10.1.0.CR1-jdk8u92]            | frekele/java:jdk8u92     | Development   | 10.1.0.CR1-jdk8u92               |
-| [10.1.0.CR1-jdk8u91]            | frekele/java:jdk8u91     | Development   | 10.1.0.CR1-jdk8u91               |
 
 
 #### WildFly 10.0.0.Final with Oracle JDK Branches:
@@ -119,6 +117,10 @@ frekele/docker-wildfly is **licensed** under the **[MIT License]**. The terms of
 [DockerHub]: https://hub.docker.com/r/frekele/wildfly
 [WILDFLY LICENSE]: https://github.com/frekele/docker-wildfly/blob/dev/WILDFLY_LICENSE
 [MIT LICENSE]: https://github.com/frekele/docker-wildfly/blob/dev/LICENSE
+
+[10.1.0.CR1-jdk8]: https://github.com/frekele/docker-wildfly/blob/10.1.0.CR1-jdk8/Dockerfile
+[10.1.0.CR1-jdk8u102]: https://github.com/frekele/docker-wildfly/blob/10.1.0.CR1-jdk8u102/Dockerfile
+[10.1.0.CR1-jdk8u101]: https://github.com/frekele/docker-wildfly/blob/10.1.0.CR1-jdk8u101/Dockerfile
 
 [10.0.0.Final-jdk8]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8/Dockerfile
 [10.0.0.Final-jdk8u102]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u102/Dockerfile
