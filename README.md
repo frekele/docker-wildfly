@@ -147,19 +147,6 @@ frekele/docker-wildfly is **licensed** under the **[MIT License]**. The terms of
 [10.1.0.Final-jdk8u121]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u121/Dockerfile
 [10.1.0.Final-jdk8u112]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u112/Dockerfile
 [10.1.0.Final-jdk8u111]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u111/Dockerfile
-[10.1.0.Final-jdk8u102]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u102/Dockerfile
-[10.1.0.Final-jdk8u101]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u101/Dockerfile
-[10.1.0.Final-jdk8u92]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u92/Dockerfile
-[10.1.0.Final-jdk8u91]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u91/Dockerfile
-[10.1.0.Final-jdk8u77]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u77/Dockerfile
-[10.1.0.Final-jdk8u74]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u74/Dockerfile
-[10.1.0.Final-jdk8u73]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u73/Dockerfile
-[10.1.0.Final-jdk8u72]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u72/Dockerfile
-[10.1.0.Final-jdk8u71]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u71/Dockerfile
-[10.1.0.Final-jdk8u66]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u66/Dockerfile
-[10.1.0.Final-jdk8u65]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u65/Dockerfile
-[10.1.0.Final-jdk8u60]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u60/Dockerfile
-[10.1.0.Final-jdk8u51]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u51/Dockerfile
 
 [10.0.0.Final-jdk8]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8/Dockerfile
 [10.0.0.Final-jdk8u141]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u141/Dockerfile
@@ -167,19 +154,6 @@ frekele/docker-wildfly is **licensed** under the **[MIT License]**. The terms of
 [10.0.0.Final-jdk8u121]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u121/Dockerfile
 [10.0.0.Final-jdk8u112]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u112/Dockerfile
 [10.0.0.Final-jdk8u111]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u111/Dockerfile
-[10.0.0.Final-jdk8u102]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u102/Dockerfile
-[10.0.0.Final-jdk8u101]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u101/Dockerfile
-[10.0.0.Final-jdk8u92]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u92/Dockerfile
-[10.0.0.Final-jdk8u91]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u91/Dockerfile
-[10.0.0.Final-jdk8u77]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u77/Dockerfile
-[10.0.0.Final-jdk8u74]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u74/Dockerfile
-[10.0.0.Final-jdk8u73]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u73/Dockerfile
-[10.0.0.Final-jdk8u72]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u72/Dockerfile
-[10.0.0.Final-jdk8u71]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u71/Dockerfile
-[10.0.0.Final-jdk8u66]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u66/Dockerfile
-[10.0.0.Final-jdk8u65]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u65/Dockerfile
-[10.0.0.Final-jdk8u60]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u60/Dockerfile
-[10.0.0.Final-jdk8u51]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u51/Dockerfile
 
 [9.0.2.Final-jdk8]: https://github.com/frekele/docker-wildfly/blob/9.0.2.Final-jdk8/Dockerfile
 [9.0.2.Final-jdk8u141]: https://github.com/frekele/docker-wildfly/blob/9.0.2.Final-jdk8u141/Dockerfile
@@ -187,8 +161,6 @@ frekele/docker-wildfly is **licensed** under the **[MIT License]**. The terms of
 [9.0.2.Final-jdk8u121]: https://github.com/frekele/docker-wildfly/blob/9.0.2.Final-jdk8u121/Dockerfile
 [9.0.2.Final-jdk8u112]: https://github.com/frekele/docker-wildfly/blob/9.0.2.Final-jdk8u112/Dockerfile
 [9.0.2.Final-jdk8u111]: https://github.com/frekele/docker-wildfly/blob/9.0.2.Final-jdk8u111/Dockerfile
-[9.0.2.Final-jdk8u102]: https://github.com/frekele/docker-wildfly/blob/9.0.2.Final-jdk8u102/Dockerfile
-[9.0.2.Final-jdk8u101]: https://github.com/frekele/docker-wildfly/blob/9.0.2.Final-jdk8u101/Dockerfile
 [9.0.2.Final-jdk7]:  https://github.com/frekele/docker-wildfly/blob/9.0.2.Final-jdk7/Dockerfile
 [9.0.2.Final-jdk7u80]:  https://github.com/frekele/docker-wildfly/blob/9.0.2.Final-jdk7u80/Dockerfile
 [9.0.2.Final-jdk7u79]:  https://github.com/frekele/docker-wildfly/blob/9.0.2.Final-jdk7u79/Dockerfile
@@ -199,8 +171,6 @@ frekele/docker-wildfly is **licensed** under the **[MIT License]**. The terms of
 [9.0.1.Final-jdk8u121]: https://github.com/frekele/docker-wildfly/blob/9.0.1.Final-jdk8u121/Dockerfile
 [9.0.1.Final-jdk8u112]: https://github.com/frekele/docker-wildfly/blob/9.0.1.Final-jdk8u112/Dockerfile
 [9.0.1.Final-jdk8u111]: https://github.com/frekele/docker-wildfly/blob/9.0.1.Final-jdk8u111/Dockerfile
-[9.0.1.Final-jdk8u102]: https://github.com/frekele/docker-wildfly/blob/9.0.1.Final-jdk8u102/Dockerfile
-[9.0.1.Final-jdk8u101]: https://github.com/frekele/docker-wildfly/blob/9.0.1.Final-jdk8u101/Dockerfile
 [9.0.1.Final-jdk7]:  https://github.com/frekele/docker-wildfly/blob/9.0.1.Final-jdk7/Dockerfile
 [9.0.1.Final-jdk7u80]:  https://github.com/frekele/docker-wildfly/blob/9.0.1.Final-jdk7u80/Dockerfile
 [9.0.1.Final-jdk7u79]:  https://github.com/frekele/docker-wildfly/blob/9.0.1.Final-jdk7u79/Dockerfile
@@ -211,8 +181,6 @@ frekele/docker-wildfly is **licensed** under the **[MIT License]**. The terms of
 [9.0.0.Final-jdk8u121]: https://github.com/frekele/docker-wildfly/blob/9.0.0.Final-jdk8u121/Dockerfile
 [9.0.0.Final-jdk8u112]: https://github.com/frekele/docker-wildfly/blob/9.0.0.Final-jdk8u112/Dockerfile
 [9.0.0.Final-jdk8u111]: https://github.com/frekele/docker-wildfly/blob/9.0.0.Final-jdk8u111/Dockerfile
-[9.0.0.Final-jdk8u102]: https://github.com/frekele/docker-wildfly/blob/9.0.0.Final-jdk8u102/Dockerfile
-[9.0.0.Final-jdk8u101]: https://github.com/frekele/docker-wildfly/blob/9.0.0.Final-jdk8u101/Dockerfile
 [9.0.0.Final-jdk7]:  https://github.com/frekele/docker-wildfly/blob/9.0.0.Final-jdk7/Dockerfile
 [9.0.0.Final-jdk7u80]:  https://github.com/frekele/docker-wildfly/blob/9.0.0.Final-jdk7u80/Dockerfile
 [9.0.0.Final-jdk7u79]:  https://github.com/frekele/docker-wildfly/blob/9.0.0.Final-jdk7u79/Dockerfile
