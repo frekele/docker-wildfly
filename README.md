@@ -16,6 +16,7 @@
 | Branch                          | From                     | Usage        | Tag Names                         |
 | ------------------------------- | ------------------------ | ------------ | ----------------------------------|
 | [11.0.0.Beta1-jdk8]             | frekele/java:jdk8        | Development  | 11.0.0.Beta1-jdk8                 |
+| [11.0.0.Beta1-jdk8u144]         | frekele/java:jdk8u144    | Development  | 11.0.0.Beta1-jdk8u144             |
 | [11.0.0.Beta1-jdk8u141]         | frekele/java:jdk8u141    | Development  | 11.0.0.Beta1-jdk8u141             |
 | [11.0.0.Beta1-jdk8u131]         | frekele/java:jdk8u131    | Development  | 11.0.0.Beta1-jdk8u131             |
 | [11.0.0.Beta1-jdk8u121]         | frekele/java:jdk8u121    | Development  | 11.0.0.Beta1-jdk8u121             |
@@ -28,6 +29,7 @@
 | Branch                          | From                     | Usage        | Tag Names                         |
 | ------------------------------- | ------------------------ | ------------ | ----------------------------------|
 | [11.0.0.Alpha1-jdk8]            | frekele/java:jdk8        | Development  | 11.0.0.Alpha1-jdk8                |
+| [11.0.0.Alpha1-jdk8u144]        | frekele/java:jdk8u144    | Development  | 11.0.0.Alpha1-jdk8u144            |
 | [11.0.0.Alpha1-jdk8u141]        | frekele/java:jdk8u141    | Development  | 11.0.0.Alpha1-jdk8u141            |
 | [11.0.0.Alpha1-jdk8u131]        | frekele/java:jdk8u131    | Development  | 11.0.0.Alpha1-jdk8u131            |
 | [11.0.0.Alpha1-jdk8u121]        | frekele/java:jdk8u121    | Development  | 11.0.0.Alpha1-jdk8u121            |
@@ -50,6 +52,7 @@
 | Branch                          | From                     | Usage        | Tag Names                         |
 | ------------------------------- | ------------------------ | ------------ | ----------------------------------|
 | [10.0.0.Final-jdk8]             | frekele/java:jdk8        | Production   | 10.0.0.Final-jdk8                 |
+| [10.0.0.Final-jdk8u144]         | frekele/java:jdk8u144    | Production   | 10.0.0.Final-jdk8u144             |
 | [10.0.0.Final-jdk8u141]         | frekele/java:jdk8u141    | Production   | 10.0.0.Final-jdk8u141             |
 | [10.0.0.Final-jdk8u131]         | frekele/java:jdk8u131    | Production   | 10.0.0.Final-jdk8u131             |
 | [10.0.0.Final-jdk8u121]         | frekele/java:jdk8u121    | Production   | 10.0.0.Final-jdk8u121             |
@@ -61,6 +64,7 @@
 | Branch                          | From                     | Usage        | Tag Names                         |
 | ------------------------------- | ------------------------ | ------------ | --------------------------------- |
 | [9.0.2.Final-jdk8]              | frekele/java:jdk8        | Production   | 9.0.2.Final-jdk8                  |
+| [9.0.2.Final-jdk8u144]          | frekele/java:jdk8u144    | Production   | 9.0.2.Final-jdk8u144              |
 | [9.0.2.Final-jdk8u141]          | frekele/java:jdk8u141    | Production   | 9.0.2.Final-jdk8u141              |
 | [9.0.2.Final-jdk8u131]          | frekele/java:jdk8u131    | Production   | 9.0.2.Final-jdk8u131              |
 | [9.0.2.Final-jdk8u121]          | frekele/java:jdk8u121    | Production   | 9.0.2.Final-jdk8u121              |
@@ -75,6 +79,7 @@
 | Branch                          | From                     | Usage        | Tag Names                         |
 | ------------------------------- | ------------------------ | ------------ | ----------------------------------|
 | [9.0.1.Final-jdk8]              | frekele/java:jdk8        | Production   | 9.0.1.Final-jdk8                  |
+| [9.0.1.Final-jdk8u144]          | frekele/java:jdk8u144    | Production   | 9.0.1.Final-jdk8u144              |
 | [9.0.1.Final-jdk8u141]          | frekele/java:jdk8u141    | Production   | 9.0.1.Final-jdk8u141              |
 | [9.0.1.Final-jdk8u131]          | frekele/java:jdk8u131    | Production   | 9.0.1.Final-jdk8u131              |
 | [9.0.1.Final-jdk8u121]          | frekele/java:jdk8u121    | Production   | 9.0.1.Final-jdk8u121              |
@@ -89,6 +94,7 @@
 | Branch                          | From                     | Usage        | Tag Names                         |
 | ------------------------------- | ------------------------ | ------------ | ----------------------------------|
 | [9.0.0.Final-jdk8]              | frekele/java:jdk8        | Production   | 9.0.0.Final-jdk8                  |
+| [9.0.0.Final-jdk8u144]          | frekele/java:jdk8u144    | Production   | 9.0.0.Final-jdk8u144              |
 | [9.0.0.Final-jdk8u141]          | frekele/java:jdk8u141    | Production   | 9.0.0.Final-jdk8u141              |
 | [9.0.0.Final-jdk8u131]          | frekele/java:jdk8u131    | Production   | 9.0.0.Final-jdk8u131              |
 | [9.0.0.Final-jdk8u121]          | frekele/java:jdk8u121    | Production   | 9.0.0.Final-jdk8u121              |
@@ -145,6 +151,7 @@ frekele/docker-wildfly is **licensed** under the **[MIT License]**. The terms of
 [MIT LICENSE]: https://github.com/frekele/docker-wildfly/blob/dev/LICENSE
 
 [11.0.0.Beta1-jdk8]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Beta1-jdk8/Dockerfile
+[11.0.0.Beta1-jdk8u144]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Beta1-jdk8u144/Dockerfile
 [11.0.0.Beta1-jdk8u141]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Beta1-jdk8u141/Dockerfile
 [11.0.0.Beta1-jdk8u131]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Beta1-jdk8u131/Dockerfile
 [11.0.0.Beta1-jdk8u121]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Beta1-jdk8u121/Dockerfile
@@ -153,6 +160,7 @@ frekele/docker-wildfly is **licensed** under the **[MIT License]**. The terms of
 [dev]: https://github.com/frekele/docker-wildfly/blob/dev/Dockerfile
 
 [11.0.0.Alpha1-jdk8]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Alpha1-jdk8/Dockerfile
+[11.0.0.Alpha1-jdk8u144]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Alpha1-jdk8u144/Dockerfile
 [11.0.0.Alpha1-jdk8u141]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Alpha1-jdk8u141/Dockerfile
 [11.0.0.Alpha1-jdk8u131]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Alpha1-jdk8u131/Dockerfile
 [11.0.0.Alpha1-jdk8u121]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Alpha1-jdk8u121/Dockerfile
@@ -160,13 +168,15 @@ frekele/docker-wildfly is **licensed** under the **[MIT License]**. The terms of
 [11.0.0.Alpha1-jdk8u111]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Alpha1-jdk8u111/Dockerfile
 
 [10.1.0.Final-jdk8]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8/Dockerfile
-[10.1.0.Final-jdk8u141]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u141/Dockerfile
+[10.1.0.Final-jdk8u141]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u144/Dockerfile
+[10.1.0.Final-jdk8u144]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u141/Dockerfile
 [10.1.0.Final-jdk8u131]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u131/Dockerfile
 [10.1.0.Final-jdk8u121]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u121/Dockerfile
 [10.1.0.Final-jdk8u112]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u112/Dockerfile
 [10.1.0.Final-jdk8u111]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u111/Dockerfile
 
 [10.0.0.Final-jdk8]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8/Dockerfile
+[10.0.0.Final-jdk8u144]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u144/Dockerfile
 [10.0.0.Final-jdk8u141]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u141/Dockerfile
 [10.0.0.Final-jdk8u131]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u131/Dockerfile
 [10.0.0.Final-jdk8u121]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u121/Dockerfile
@@ -174,6 +184,7 @@ frekele/docker-wildfly is **licensed** under the **[MIT License]**. The terms of
 [10.0.0.Final-jdk8u111]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u111/Dockerfile
 
 [9.0.2.Final-jdk8]: https://github.com/frekele/docker-wildfly/blob/9.0.2.Final-jdk8/Dockerfile
+[9.0.2.Final-jdk8u144]: https://github.com/frekele/docker-wildfly/blob/9.0.2.Final-jdk8u144/Dockerfile
 [9.0.2.Final-jdk8u141]: https://github.com/frekele/docker-wildfly/blob/9.0.2.Final-jdk8u141/Dockerfile
 [9.0.2.Final-jdk8u131]: https://github.com/frekele/docker-wildfly/blob/9.0.2.Final-jdk8u131/Dockerfile
 [9.0.2.Final-jdk8u121]: https://github.com/frekele/docker-wildfly/blob/9.0.2.Final-jdk8u121/Dockerfile
@@ -184,6 +195,7 @@ frekele/docker-wildfly is **licensed** under the **[MIT License]**. The terms of
 [9.0.2.Final-jdk7u79]:  https://github.com/frekele/docker-wildfly/blob/9.0.2.Final-jdk7u79/Dockerfile
 
 [9.0.1.Final-jdk8]: https://github.com/frekele/docker-wildfly/blob/9.0.1.Final-jdk8/Dockerfile
+[9.0.1.Final-jdk8u144]: https://github.com/frekele/docker-wildfly/blob/9.0.1.Final-jdk8u144/Dockerfile
 [9.0.1.Final-jdk8u141]: https://github.com/frekele/docker-wildfly/blob/9.0.1.Final-jdk8u141/Dockerfile
 [9.0.1.Final-jdk8u131]: https://github.com/frekele/docker-wildfly/blob/9.0.1.Final-jdk8u131/Dockerfile
 [9.0.1.Final-jdk8u121]: https://github.com/frekele/docker-wildfly/blob/9.0.1.Final-jdk8u121/Dockerfile
@@ -194,6 +206,7 @@ frekele/docker-wildfly is **licensed** under the **[MIT License]**. The terms of
 [9.0.1.Final-jdk7u79]:  https://github.com/frekele/docker-wildfly/blob/9.0.1.Final-jdk7u79/Dockerfile
 
 [9.0.0.Final-jdk8]: https://github.com/frekele/docker-wildfly/blob/9.0.0.Final-jdk8/Dockerfile
+[9.0.0.Final-jdk8u144]: https://github.com/frekele/docker-wildfly/blob/9.0.0.Final-jdk8u144/Dockerfile
 [9.0.0.Final-jdk8u141]: https://github.com/frekele/docker-wildfly/blob/9.0.0.Final-jdk8u141/Dockerfile
 [9.0.0.Final-jdk8u131]: https://github.com/frekele/docker-wildfly/blob/9.0.0.Final-jdk8u131/Dockerfile
 [9.0.0.Final-jdk8u121]: https://github.com/frekele/docker-wildfly/blob/9.0.0.Final-jdk8u121/Dockerfile
