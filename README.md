@@ -169,8 +169,8 @@ frekele/docker-wildfly is **licensed** under the **[MIT License]**. The terms of
 [11.0.0.Alpha1-jdk8u111]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Alpha1-jdk8u111/Dockerfile
 
 [10.1.0.Final-jdk8]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8/Dockerfile
-[10.1.0.Final-jdk8u141]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u144/Dockerfile
-[10.1.0.Final-jdk8u144]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u141/Dockerfile
+[10.1.0.Final-jdk8u144]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u144/Dockerfile
+[10.1.0.Final-jdk8u141]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u141/Dockerfile
 [10.1.0.Final-jdk8u131]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u131/Dockerfile
 [10.1.0.Final-jdk8u121]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u121/Dockerfile
 [10.1.0.Final-jdk8u112]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u112/Dockerfile
