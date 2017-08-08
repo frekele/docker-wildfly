@@ -33,19 +33,6 @@
 | [10.1.0.Final-jdk8u121]         | frekele/java:jdk8u121    | Production   | 10.1.0.Final-jdk8u121             |
 | [10.1.0.Final-jdk8u112]         | frekele/java:jdk8u112    | Production   | 10.1.0.Final-jdk8u112             |
 | [10.1.0.Final-jdk8u111]         | frekele/java:jdk8u111    | Production   | 10.1.0.Final-jdk8u111             |
-| [10.1.0.Final-jdk8u102]         | frekele/java:jdk8u102    | Production   | 10.1.0.Final-jdk8u102             |
-| [10.1.0.Final-jdk8u101]         | frekele/java:jdk8u101    | Production   | 10.1.0.Final-jdk8u101             |
-| [10.1.0.Final-jdk8u92]          | frekele/java:jdk8u92     | Production   | 10.1.0.Final-jdk8u92              |
-| [10.1.0.Final-jdk8u91]          | frekele/java:jdk8u91     | Production   | 10.1.0.Final-jdk8u91              |
-| [10.1.0.Final-jdk8u77]          | frekele/java:jdk8u77     | Production   | 10.1.0.Final-jdk8u77              |
-| [10.1.0.Final-jdk8u74]          | frekele/java:jdk8u74     | Production   | 10.1.0.Final-jdk8u74              |
-| [10.1.0.Final-jdk8u73]          | frekele/java:jdk8u73     | Production   | 10.1.0.Final-jdk8u73              |
-| [10.1.0.Final-jdk8u72]          | frekele/java:jdk8u72     | Production   | 10.1.0.Final-jdk8u72              |
-| [10.1.0.Final-jdk8u71]          | frekele/java:jdk8u71     | Production   | 10.1.0.Final-jdk8u71              |
-| [10.1.0.Final-jdk8u66]          | frekele/java:jdk8u66     | Production   | 10.1.0.Final-jdk8u66              |
-| [10.1.0.Final-jdk8u65]          | frekele/java:jdk8u65     | Production   | 10.1.0.Final-jdk8u65              |
-| [10.1.0.Final-jdk8u60]          | frekele/java:jdk8u60     | Production   | 10.1.0.Final-jdk8u60              |
-| [10.1.0.Final-jdk8u51]          | frekele/java:jdk8u51     | Production   | 10.1.0.Final-jdk8u51              |
 
 
 #### WildFly 10.0.0.Final with Oracle JDK Branches:
@@ -57,19 +44,6 @@
 | [10.0.0.Final-jdk8u121]         | frekele/java:jdk8u121    | Production   | 10.0.0.Final-jdk8u121             |
 | [10.0.0.Final-jdk8u112]         | frekele/java:jdk8u112    | Production   | 10.0.0.Final-jdk8u112             |
 | [10.0.0.Final-jdk8u111]         | frekele/java:jdk8u111    | Production   | 10.0.0.Final-jdk8u111             |
-| [10.0.0.Final-jdk8u102]         | frekele/java:jdk8u102    | Production   | 10.0.0.Final-jdk8u102             |
-| [10.0.0.Final-jdk8u101]         | frekele/java:jdk8u101    | Production   | 10.0.0.Final-jdk8u101             |
-| [10.0.0.Final-jdk8u92]          | frekele/java:jdk8u92     | Production   | 10.0.0.Final-jdk8u92              |
-| [10.0.0.Final-jdk8u91]          | frekele/java:jdk8u91     | Production   | 10.0.0.Final-jdk8u91              |
-| [10.0.0.Final-jdk8u77]          | frekele/java:jdk8u77     | Production   | 10.0.0.Final-jdk8u77              |
-| [10.0.0.Final-jdk8u74]          | frekele/java:jdk8u74     | Production   | 10.0.0.Final-jdk8u74              |
-| [10.0.0.Final-jdk8u73]          | frekele/java:jdk8u73     | Production   | 10.0.0.Final-jdk8u73              |
-| [10.0.0.Final-jdk8u72]          | frekele/java:jdk8u72     | Production   | 10.0.0.Final-jdk8u72              |
-| [10.0.0.Final-jdk8u71]          | frekele/java:jdk8u71     | Production   | 10.0.0.Final-jdk8u71              |
-| [10.0.0.Final-jdk8u66]          | frekele/java:jdk8u66     | Production   | 10.0.0.Final-jdk8u66              |
-| [10.0.0.Final-jdk8u65]          | frekele/java:jdk8u65     | Production   | 10.0.0.Final-jdk8u65              |
-| [10.0.0.Final-jdk8u60]          | frekele/java:jdk8u60     | Production   | 10.0.0.Final-jdk8u60              |
-| [10.0.0.Final-jdk8u51]          | frekele/java:jdk8u51     | Production   | 10.0.0.Final-jdk8u51              |
 
 
 #### WildFly 9.0.2.Final with Oracle JDK Branches:
@@ -81,8 +55,6 @@
 | [9.0.2.Final-jdk8u121]          | frekele/java:jdk8u121    | Production   | 9.0.2.Final-jdk8u121              |
 | [9.0.2.Final-jdk8u112]          | frekele/java:jdk8u112    | Production   | 9.0.2.Final-jdk8u112              |
 | [9.0.2.Final-jdk8u111]          | frekele/java:jdk8u111    | Production   | 9.0.2.Final-jdk8u111              |
-| [9.0.2.Final-jdk8u102]          | frekele/java:jdk8u102    | Production   | 9.0.2.Final-jdk8u102              |
-| [9.0.2.Final-jdk8u101]          | frekele/java:jdk8u101    | Production   | 9.0.2.Final-jdk8u101              |
 | [9.0.2.Final-jdk7]              | frekele/java:jdk7        | Production   | 9.0.2.Final-jdk7                  |
 | [9.0.2.Final-jdk7u80]           | frekele/java:jdk7u80     | Production   | 9.0.2.Final-jdk7u80               |
 | [9.0.2.Final-jdk7u79]           | frekele/java:jdk7u79     | Production   | 9.0.2.Final-jdk7u79               |
@@ -97,8 +69,6 @@
 | [9.0.1.Final-jdk8u121]          | frekele/java:jdk8u121    | Production   | 9.0.1.Final-jdk8u121              |
 | [9.0.1.Final-jdk8u112]          | frekele/java:jdk8u112    | Production   | 9.0.1.Final-jdk8u112              |
 | [9.0.1.Final-jdk8u111]          | frekele/java:jdk8u111    | Production   | 9.0.1.Final-jdk8u111              |
-| [9.0.1.Final-jdk8u102]          | frekele/java:jdk8u102    | Production   | 9.0.1.Final-jdk8u102              |
-| [9.0.1.Final-jdk8u101]          | frekele/java:jdk8u101    | Production   | 9.0.1.Final-jdk8u101              |
 | [9.0.1.Final-jdk7]              | frekele/java:jdk7        | Production   | 9.0.1.Final-jdk7                  |
 | [9.0.1.Final-jdk7u80]           | frekele/java:jdk7u80     | Production   | 9.0.1.Final-jdk7u80               |
 | [9.0.1.Final-jdk7u79]           | frekele/java:jdk7u79     | Production   | 9.0.1.Final-jdk7u79               |
@@ -113,8 +83,6 @@
 | [9.0.0.Final-jdk8u121]          | frekele/java:jdk8u121    | Production   | 9.0.0.Final-jdk8u121              |
 | [9.0.0.Final-jdk8u112]          | frekele/java:jdk8u112    | Production   | 9.0.0.Final-jdk8u112              |
 | [9.0.0.Final-jdk8u111]          | frekele/java:jdk8u111    | Production   | 9.0.0.Final-jdk8u111              |
-| [9.0.0.Final-jdk8u102]          | frekele/java:jdk8u102    | Production   | 9.0.0.Final-jdk8u102              |
-| [9.0.0.Final-jdk8u101]          | frekele/java:jdk8u101    | Production   | 9.0.0.Final-jdk8u101              |
 | [9.0.0.Final-jdk7]              | frekele/java:jdk7        | Production   | 9.0.0.Final-jdk7                  |
 | [9.0.0.Final-jdk7u80]           | frekele/java:jdk7u80     | Production   | 9.0.0.Final-jdk7u80               |
 | [9.0.0.Final-jdk7u79]           | frekele/java:jdk7u79     | Production   | 9.0.0.Final-jdk7u79               |
