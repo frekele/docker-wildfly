@@ -41,6 +41,7 @@
 | Branch                          | From                     | Usage        | Tag Names                         |
 | ------------------------------- | ------------------------ | ------------ | ----------------------------------|
 | [10.1.0.Final-jdk8] - latest    | frekele/java:jdk8        | Production   | 10.1.0.Final-jdk8,  latest        |
+| [10.1.0.Final-jdk8u144]         | frekele/java:jdk8u144    | Production   | 10.1.0.Final-jdk8u144             |
 | [10.1.0.Final-jdk8u141]         | frekele/java:jdk8u141    | Production   | 10.1.0.Final-jdk8u141             |
 | [10.1.0.Final-jdk8u131]         | frekele/java:jdk8u131    | Production   | 10.1.0.Final-jdk8u131             |
 | [10.1.0.Final-jdk8u121]         | frekele/java:jdk8u121    | Production   | 10.1.0.Final-jdk8u121             |
