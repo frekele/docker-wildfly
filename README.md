@@ -13,6 +13,7 @@
 
 
 #### WildFly 11.0.0.Beta1 with Oracle JDK Branches:
+
 | Branch                          | From                     | Usage        | Tag Names                         |
 | ------------------------------- | ------------------------ | ------------ | ----------------------------------|
 | [11.0.0.Beta1-jdk8]             | frekele/java:jdk8        | Development  | 11.0.0.Beta1-jdk8                 |
@@ -26,6 +27,7 @@
 
 
 #### WildFly 11.0.0.Alpha1 with Oracle JDK Branches:
+
 | Branch                          | From                     | Usage        | Tag Names                         |
 | ------------------------------- | ------------------------ | ------------ | ----------------------------------|
 | [11.0.0.Alpha1-jdk8]            | frekele/java:jdk8        | Development  | 11.0.0.Alpha1-jdk8                |
@@ -38,6 +40,7 @@
 
 
 #### WildFly 10.1.0.Final with Oracle JDK Branches:
+
 | Branch                          | From                     | Usage        | Tag Names                         |
 | ------------------------------- | ------------------------ | ------------ | ----------------------------------|
 | [10.1.0.Final-jdk8] - latest    | frekele/java:jdk8        | Production   | 10.1.0.Final-jdk8,  latest        |
@@ -50,6 +53,7 @@
 
 
 #### WildFly 10.0.0.Final with Oracle JDK Branches:
+
 | Branch                          | From                     | Usage        | Tag Names                         |
 | ------------------------------- | ------------------------ | ------------ | ----------------------------------|
 | [10.0.0.Final-jdk8]             | frekele/java:jdk8        | Production   | 10.0.0.Final-jdk8                 |
@@ -62,6 +66,7 @@
 
 
 #### WildFly 9.0.2.Final with Oracle JDK Branches:
+
 | Branch                          | From                     | Usage        | Tag Names                         |
 | ------------------------------- | ------------------------ | ------------ | --------------------------------- |
 | [9.0.2.Final-jdk8]              | frekele/java:jdk8        | Production   | 9.0.2.Final-jdk8                  |
@@ -77,6 +82,7 @@
 
 
 #### WildFly 9.0.1.Final with Oracle JDK Branches:
+
 | Branch                          | From                     | Usage        | Tag Names                         |
 | ------------------------------- | ------------------------ | ------------ | ----------------------------------|
 | [9.0.1.Final-jdk8]              | frekele/java:jdk8        | Production   | 9.0.1.Final-jdk8                  |
@@ -92,6 +98,7 @@
 
 
 #### WildFly 9.0.0.Final with Oracle JDK Branches:
+
 | Branch                          | From                     | Usage        | Tag Names                         |
 | ------------------------------- | ------------------------ | ------------ | ----------------------------------|
 | [9.0.0.Final-jdk8]              | frekele/java:jdk8        | Production   | 9.0.0.Final-jdk8                  |
