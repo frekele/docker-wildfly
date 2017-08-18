@@ -22,7 +22,7 @@
 | [11.0.0.Beta1-jdk8u121]         | frekele/java:jdk8u121    | Development  | 11.0.0.Beta1-jdk8u121             |
 | [11.0.0.Beta1-jdk8u112]         | frekele/java:jdk8u112    | Development  | 11.0.0.Beta1-jdk8u112             |
 | [11.0.0.Beta1-jdk8u111]         | frekele/java:jdk8u111    | Development  | 11.0.0.Beta1-jdk8u111             |
-| [dev]                           | frekele/java:jdk8        | Development  | dev                               |
+| [master]                        | frekele/java:jdk8        | Development  | dev                               |
 
 
 #### WildFly 11.0.0.Alpha1 with Oracle JDK Branches:
@@ -143,13 +143,13 @@ frekele/docker-wildfly is **licensed** under the **[MIT License]**. The terms of
     SOFTWARE.
 
 
-[WildFlyImage]: https://raw.githubusercontent.com/frekele/docker-wildfly/dev/wildfly-logo.png
+[WildFlyImage]: https://raw.githubusercontent.com/frekele/docker-wildfly/master/wildfly-logo.png
 [WildFlyWebsite]: http://www.wildfly.org/
 [Website]: https://frekele.github.io/docker-wildfly
 [GitHub]: https://github.com/frekele/docker-wildfly
 [DockerHub]: https://hub.docker.com/r/frekele/wildfly
-[WILDFLY LICENSE]: https://github.com/frekele/docker-wildfly/blob/dev/WILDFLY_LICENSE
-[MIT LICENSE]: https://github.com/frekele/docker-wildfly/blob/dev/LICENSE
+[WILDFLY LICENSE]: https://github.com/frekele/docker-wildfly/blob/master/WILDFLY_LICENSE
+[MIT LICENSE]: https://github.com/frekele/docker-wildfly/blob/master/LICENSE
 
 [11.0.0.Beta1-jdk8]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Beta1-jdk8/Dockerfile
 [11.0.0.Beta1-jdk8u144]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Beta1-jdk8u144/Dockerfile
@@ -158,7 +158,7 @@ frekele/docker-wildfly is **licensed** under the **[MIT License]**. The terms of
 [11.0.0.Beta1-jdk8u121]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Beta1-jdk8u121/Dockerfile
 [11.0.0.Beta1-jdk8u112]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Beta1-jdk8u112/Dockerfile
 [11.0.0.Beta1-jdk8u111]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Beta1-jdk8u111/Dockerfile
-[dev]: https://github.com/frekele/docker-wildfly/blob/dev/Dockerfile
+[master]: https://github.com/frekele/docker-wildfly/blob/master/Dockerfile
 
 [11.0.0.Alpha1-jdk8]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Alpha1-jdk8/Dockerfile
 [11.0.0.Alpha1-jdk8u144]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Alpha1-jdk8u144/Dockerfile
