@@ -1,8 +1,8 @@
-FROM frekele/java:jdk8
+FROM frekele/java:jdk8u141
 
 MAINTAINER frekele <leandro.freitas@softdevelop.com.br>
 
-ENV WILDFLY_VERSION=12.0.0.Beta1
+ENV WILDFLY_VERSION=12.0.0.Final
 ENV JBOSS_HOME=/opt/wildfly
 
 # Change to tmp folder
