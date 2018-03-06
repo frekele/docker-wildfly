@@ -34,7 +34,7 @@
 
 | Branch                          | From                     | Usage        | Tag Names                         |
 | ------------------------------- | ------------------------ | ------------ | ----------------------------------|
-| [11.0.0.Final-jdk8] - latest    | frekele/java:jdk8        | Production   | 11.0.0.Final-jdk8,  latest        |
+| [11.0.0.Final-jdk8]             | frekele/java:jdk8        | Production   | 11.0.0.Final-jdk8                 |
 | [11.0.0.Final-jdk8u162]         | frekele/java:jdk8u162    | Production   | 11.0.0.Final-jdk8u162             |
 | [11.0.0.Final-jdk8u161]         | frekele/java:jdk8u161    | Production   | 11.0.0.Final-jdk8u161             |
 | [11.0.0.Final-jdk8u152]         | frekele/java:jdk8u152    | Production   | 11.0.0.Final-jdk8u152             |
