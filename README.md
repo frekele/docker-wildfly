@@ -17,6 +17,8 @@
 | Branch                          | From                     | Usage        | Tag Names                         |
 | ------------------------------- | ------------------------ | ------------ | ----------------------------------|
 | [12.0.0.Final-jdk8] - latest    | frekele/java:jdk8        | Production   | 12.0.0.Final-jdk8,  latest        |
+| [12.0.0.Final-jdk8u172]         | frekele/java:jdk8u172    | Production   | 12.0.0.Final-jdk8u172             |
+| [12.0.0.Final-jdk8u171]         | frekele/java:jdk8u171    | Production   | 12.0.0.Final-jdk8u171             |
 | [12.0.0.Final-jdk8u162]         | frekele/java:jdk8u162    | Production   | 12.0.0.Final-jdk8u162             |
 | [12.0.0.Final-jdk8u161]         | frekele/java:jdk8u161    | Production   | 12.0.0.Final-jdk8u161             |
 | [12.0.0.Final-jdk8u152]         | frekele/java:jdk8u152    | Production   | 12.0.0.Final-jdk8u152             |
@@ -35,6 +37,8 @@
 | Branch                          | From                     | Usage        | Tag Names                         |
 | ------------------------------- | ------------------------ | ------------ | ----------------------------------|
 | [11.0.0.Final-jdk8]             | frekele/java:jdk8        | Production   | 11.0.0.Final-jdk8                 |
+| [11.0.0.Final-jdk8u172]         | frekele/java:jdk8u172    | Production   | 11.0.0.Final-jdk8u172             |
+| [11.0.0.Final-jdk8u171]         | frekele/java:jdk8u171    | Production   | 11.0.0.Final-jdk8u171             |
 | [11.0.0.Final-jdk8u162]         | frekele/java:jdk8u162    | Production   | 11.0.0.Final-jdk8u162             |
 | [11.0.0.Final-jdk8u161]         | frekele/java:jdk8u161    | Production   | 11.0.0.Final-jdk8u161             |
 | [11.0.0.Final-jdk8u152]         | frekele/java:jdk8u152    | Production   | 11.0.0.Final-jdk8u152             |
@@ -52,18 +56,12 @@
 | Branch                          | From                     | Usage        | Tag Names                         |
 | ------------------------------- | ------------------------ | ------------ | ----------------------------------|
 | [10.1.0.Final-jdk8]             | frekele/java:jdk8        | Production   | 10.1.0.Final-jdk8                 |
-| [10.1.0.Final-jdk8u162]         | frekele/java:jdk8u162    | Production   | 10.1.0.Final-jdk8u162             |
-| [10.1.0.Final-jdk8u161]         | frekele/java:jdk8u161    | Production   | 10.1.0.Final-jdk8u161             |
-
 
 #### WildFly 10.0.0.Final with Oracle JDK Branches:
 
 | Branch                          | From                     | Usage        | Tag Names                         |
 | ------------------------------- | ------------------------ | ------------ | ----------------------------------|
 | [10.0.0.Final-jdk8]             | frekele/java:jdk8        | Production   | 10.0.0.Final-jdk8                 |
-| [10.0.0.Final-jdk8u162]         | frekele/java:jdk8u162    | Production   | 10.0.0.Final-jdk8u162             |
-| [10.0.0.Final-jdk8u161]         | frekele/java:jdk8u161    | Production   | 10.0.0.Final-jdk8u161             |
-
 
 #### WildFly 9.0.2.Final with Oracle JDK Branches:
 
@@ -136,6 +134,8 @@ frekele/docker-wildfly is **licensed** under the **[MIT License]**. The terms of
 [MIT LICENSE]: https://github.com/frekele/docker-wildfly/blob/master/LICENSE
 
 [12.0.0.Final-jdk8]: https://github.com/frekele/docker-wildfly/blob/12.0.0.Final-jdk8/Dockerfile
+[12.0.0.Final-jdk8u172]: https://github.com/frekele/docker-wildfly/blob/12.0.0.Final-jdk8u172/Dockerfile
+[12.0.0.Final-jdk8u171]: https://github.com/frekele/docker-wildfly/blob/12.0.0.Final-jdk8u171/Dockerfile
 [12.0.0.Final-jdk8u162]: https://github.com/frekele/docker-wildfly/blob/12.0.0.Final-jdk8u162/Dockerfile
 [12.0.0.Final-jdk8u161]: https://github.com/frekele/docker-wildfly/blob/12.0.0.Final-jdk8u161/Dockerfile
 [12.0.0.Final-jdk8u152]: https://github.com/frekele/docker-wildfly/blob/12.0.0.Final-jdk8u152/Dockerfile
@@ -149,6 +149,8 @@ frekele/docker-wildfly is **licensed** under the **[MIT License]**. The terms of
 [master]: https://github.com/frekele/docker-wildfly/blob/master/Dockerfile
 
 [11.0.0.Final-jdk8]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Final-jdk8/Dockerfile
+[11.0.0.Final-jdk8u172]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Final-jdk8u172/Dockerfile
+[11.0.0.Final-jdk8u171]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Final-jdk8u171/Dockerfile
 [11.0.0.Final-jdk8u162]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Final-jdk8u162/Dockerfile
 [11.0.0.Final-jdk8u161]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Final-jdk8u161/Dockerfile
 [11.0.0.Final-jdk8u152]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Final-jdk8u152/Dockerfile
@@ -161,12 +163,8 @@ frekele/docker-wildfly is **licensed** under the **[MIT License]**. The terms of
 [11.0.0.Final-jdk8u111]: https://github.com/frekele/docker-wildfly/blob/11.0.0.Final-jdk8u111/Dockerfile
 
 [10.1.0.Final-jdk8]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8/Dockerfile
-[10.1.0.Final-jdk8u162]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u162/Dockerfile
-[10.1.0.Final-jdk8u161]: https://github.com/frekele/docker-wildfly/blob/10.1.0.Final-jdk8u161/Dockerfile
 
 [10.0.0.Final-jdk8]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8/Dockerfile
-[10.0.0.Final-jdk8u162]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u162/Dockerfile
-[10.0.0.Final-jdk8u161]: https://github.com/frekele/docker-wildfly/blob/10.0.0.Final-jdk8u161/Dockerfile
 
 [9.0.2.Final-jdk8]: https://github.com/frekele/docker-wildfly/blob/9.0.2.Final-jdk8/Dockerfile
 [9.0.2.Final-jdk7]:  https://github.com/frekele/docker-wildfly/blob/9.0.2.Final-jdk7/Dockerfile
